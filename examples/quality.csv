@@ -1,0 +1,5 @@
+serial_number,work_order,result,defect
+SN-0001,WO-1001,Pass,None
+SN-0002,WO-1001,Pass,None
+SN-0003,WO-1002,Fail,Scratch
+SN-0004,WO-1003,Pass,None

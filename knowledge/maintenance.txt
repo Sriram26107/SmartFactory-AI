@@ -1,0 +1,1 @@
+Maintenance reference (demo): Review temperature and vibration trends. Confirm sensor calibration and consult qualified maintenance engineers before any action. This educational application does not authorize machine shutdown or maintenance decisions.

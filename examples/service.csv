@@ -1,0 +1,3 @@
+machine_id,service_type,status
+M-01,Preventive inspection,Scheduled
+M-03,Bearing replacement,Completed

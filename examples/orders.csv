@@ -1,0 +1,5 @@
+work_order,product,quantity,priority,hours,status,line
+WO-1001,Housing-A,120,1,5,In progress,LINE-1
+WO-1002,Bracket-B,80,2,3,Released,LINE-2
+WO-1003,Valve-C,200,1,7,Released,LINE-1
+WO-1004,Housing-A,60,3,2,Completed,LINE-3

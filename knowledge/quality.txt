@@ -1,0 +1,1 @@
+Quality reference (demo): Inspection records link product serial numbers to work orders. Defect classification requires labeled image examples, independent evaluation, and an approved acceptance process.

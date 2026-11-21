@@ -1,0 +1,4 @@
+delivery,destination,distance_km,priority,due_hours
+DEL-01,North,42,1,8
+DEL-02,West,28,2,12
+DEL-03,East,65,1,10

@@ -1,0 +1,3 @@
+requirement_id,product,requirement,verification
+REQ-001,Housing-A,Surface inspection before release,Quality record
+REQ-002,Valve-C,Component traceability,Work order and BOM link

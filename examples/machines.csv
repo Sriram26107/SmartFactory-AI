@@ -1,0 +1,5 @@
+machine_id,line,type
+M-01,LINE-1,CNC
+M-02,LINE-1,Assembly
+M-03,LINE-1,CNC
+M-04,LINE-2,Assembly

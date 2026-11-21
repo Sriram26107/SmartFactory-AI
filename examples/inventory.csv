@@ -1,0 +1,4 @@
+part,on_hand,reorder_point,daily_demand,lead_days
+Steel blank,180,200,25,8
+Bearing,420,150,8,12
+Drive motor,35,50,4,18

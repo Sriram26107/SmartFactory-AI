@@ -1,0 +1,1 @@
+Energy reference (demo): Monitor electricity consumption, renewable production, and grid imports. Validate energy forecasts against measured site demand before using them for operational planning.
